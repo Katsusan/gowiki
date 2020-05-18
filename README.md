@@ -1,2 +1,2 @@
 # gowiki
-wanna know more about Golang
+more about Golang
