@@ -1,2 +1,2 @@
 # gowiki
-more about Golang
+be curious and patient.
